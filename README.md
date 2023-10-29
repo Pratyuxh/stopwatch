@@ -6,5 +6,5 @@ Coding Ninjas Frontend test: Stopwatch
   * Stop Timer
   * Reset Timer
   
-  #### Step By Step Video Tutorial 
-  [![Watch the video](https://drive.google.com/drive/folders/10Y1MCNWtnDrH3WXLxK1woIrrJYLG4JK2?usp=sharing)
+#### Step By Step Video Tutorial 
+https://drive.google.com/drive/folders/10Y1MCNWtnDrH3WXLxK1woIrrJYLG4JK2?usp=sharing
